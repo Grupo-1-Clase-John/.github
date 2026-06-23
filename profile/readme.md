@@ -84,6 +84,7 @@ Para que este README aparezca en la página principal de la organización en Git
 
 ## Miembros del Equipo y Roles
 | Nombre | Rol | Usuario de GitHub |
+| :--- | :--- | :--- |
 | [Miguel Flórez] | Líder (Arquitecto) | `@MiguelFlVe` |
 | [Oscar Solano] | Desarrollador | `@OscarSolano` |
 | [Sara Estupiñán] | Desarrollador | `@sararojas3315656` |
